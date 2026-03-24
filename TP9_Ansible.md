@@ -1,6 +1,6 @@
 ## IX. TP9 - Templates
 
-### 1. Creer un fichier de Template `index.php.j2` au bon endroit avec le contenu suivant (a vous de remplacer les variables)
+### 1. Creer un fichier de Template `index.php.j2` au bon endroit avec le contenu suivant (à vous de remplacer les variables)
 
 ```php
 <?php
@@ -52,7 +52,7 @@ $conn->close();
 </html>
 ```
 
-### 4. Templatiser le fichier `style.css` pour modifier les parametres suivants (tout doit etre variabilise)
+### 4. Templatiser le fichier `style.css` pour modifier les parametres suivants (tout doit être variabilisé)
 
 ```css
 body {

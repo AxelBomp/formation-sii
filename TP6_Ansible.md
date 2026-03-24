@@ -51,6 +51,6 @@
           ('axel'),('jean'),('alfred'),('gaston');
 ```
 
-### 3. Variabiliser tous les logins et les mots de passe dans les bons fichiers host_vars ou group_vars, ainsi que la liste des users à créer dans la base.
+### 3. Variabiliser tous les logins et les mots de passe dans les bons fichiers host_vars ou group_vars, ainsi que la liste des users à créer dans la base. Modifier le playbook en conséquence.
 
 ---

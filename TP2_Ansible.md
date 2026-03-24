@@ -6,9 +6,9 @@
 
 ### 3. Relancer la commande de debug
 
-### 4. Modifier l'inventaire pour y ajouter des users "web" et "db" et relancer la commande de debug
+### 4. Modifier l'inventaire pour y ajouter des ansible_users "web" et "db" et relancer la commande de debug
 
-### 5. Ajouter maintenant une variable "port_apache" uniquement pour le serveur web et relancer la commande debug
+### 5. Ajouter maintenant une variable "port_apache" uniquement pour le serveur web et relancer la commande debug pour afficher cette variable
 
 ### 6. Tester la commande
 
